@@ -10,3 +10,6 @@ function del() {
 function devC() {
     console.log('dev_C code chức năng tạo branch')
 }
+function devA(params) {
+    console.log("DevA_tạo branch");
+}
