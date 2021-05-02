@@ -9,3 +9,6 @@ function del() {
 function devA(params) {
     console.log("DevA_tạo branch");
 }
+function devB() {
+  console.log("dev b code chức năng tạo nhánh");
+}
