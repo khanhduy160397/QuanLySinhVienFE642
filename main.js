@@ -6,3 +6,6 @@ function add() {
 function del() {
   console.log("del");
 }
+function devA(params) {
+    console.log("DevA_tạo branch");
+}
