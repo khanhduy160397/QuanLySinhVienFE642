@@ -1,0 +1,1 @@
+console.log("User a code chức năng gì đó");
